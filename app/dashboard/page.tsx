@@ -214,7 +214,7 @@ export default function DashboardPage() {
         <section className="grid md:grid-cols-3 gap-6">
           <ActionCard title="Certificates" description="View issued certificates" href="/certificates" />
           <ActionCard title="Marksheets" description="View issued marksheets" href="/marksheets" />
-          <ActionCard title="Verify" description="Verify documents" href="/verify" />
+       
         </section>
       </div>
 

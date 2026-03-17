@@ -136,13 +136,6 @@ export default function MarksheetsPage() {
                       </button>
 
                       {/* Verify */}
-                      <Link
-                        href={verifyUrl}
-                        target="_blank"
-                        className="px-3 py-1 text-xs border rounded-md flex items-center gap-1 hover:bg-zinc-100 dark:hover:bg-zinc-800"
-                      >
-                        Verify <ExternalLink size={12} />
-                      </Link>
 
                     </td>
                   </tr>
